@@ -1,0 +1,14 @@
+delphicbuilder_2010_3615_win.iso破解
+1. 用原来的安装程序卸除旧版；
+2. 准备如下“材料”：
+A.Delphi.Distiller.v1.85,参见seven_14(http://bbs.2ccc.com/topic.asp?topicid=344528)
+B.RAD Studio 2010 V14.3615 iso ,参见cndiablocn(http://bbs.2ccc.com/topic.asp?topicid=344149)
+3. 采用旧版本的序列号安装3615(或者使用HAAL-DANSGN-FZR5AG-M3BS)，不要选择更新升级(Update)完成安装(finish)；
+4. 运行一次D2010，进入注册界面，不做任何事情直接点击“Cancel”，然后点击相关按钮退出；
+5. 运行Distiller.v1.85，点击“清除”LIC，勾选“Remove...use lsuper method”,点击“OK”；
+如果无法选中，找到开始--C++Builder 2010 右键打开文件位置，找到Check for Updates 的快捷键双击
+勾选第二个和第三个更新即可，更新成功再操作第5步，记住没勾选上“Remove...use lsuper method” 就是没有破解成功
+6. 运行D2010成功！若进入“购买”页面，没关系，你再重复第5步，...你一定成功！
+
+在此感谢为“CRACK事业”作出贡献的人们！ 
+

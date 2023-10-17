@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/07 23:21:38.133.cpp,C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\changeity.cpp</Transaction>
+    <Transaction>2020/08/07 23:21:38.133.h,C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\Unit2.h=C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\changeity.h</Transaction>
+    <Transaction>2020/08/07 23:21:38.133.dfm,C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\changeity.dfm</Transaction>
+    <Transaction>2020/08/07 23:33:10.720.cbproj,C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\zhang.DESKTOP-MAO143N\Documents\RAD Studio\Projects\changeityProject1.cbproj</Transaction>
+    <Transaction>2023/10/13 23:17:11.818.lib,D:\Program Files (x86)\Python_3.8.5\libs\python38.lib=</Transaction>
+    <Transaction>2023/10/13 23:20:53.102.lib,D:\python36bak.lib=</Transaction>
+    <Transaction>2023/10/13 23:24:41.555.lib,D:\python36.lib=</Transaction>
+    <Transaction>2023/10/13 23:25:26.603.libs,D:\python36.libs=</Transaction>
+    <Transaction>2023/10/13 23:37:32.769.lib,D:\python36.lib=</Transaction>
+    <Transaction>2023/10/14 00:28:14.427.py,D:\AppDocument\Python\Regional_identification20231009\start.py=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="changeity.cpp"/>
+    <File Path="changeity.cpp"/>
+    <File Path="changeity.dfm"/>
+    <File Path="changeity.h"/>
+    <File Path="changeityProject1.cpp"/>
+    <File Path="changeityProject1.res"/>
+  </ProjectSortOrder>
+</BorlandProject>
