@@ -17,8 +17,9 @@
 
 前端：
 
-1.后端写好后打算和前端连接，但是百度的方法很少有C++ Builder工具的，装的vscode好像也不对，后来根据百度的vscode修改的配置的中文翻译成英文对照着在CB里找，才知道要链接Python的库才行，include path要修改。同时百度还说要修改一个Python_3_d.dll 的文件进行编译，cmd转码的时候发现32位数不对解决了问题2
+1.后端写好后打算和前端连接，但是百度的方法很少有C++ Builder工具的，装的vscode好像也不对，后来根据百度的vscode修改的配置的中文翻译成英文对照着在CB里找，才知道要链接Python的库才行，include path要修改。同时百度还说要修改一个Python36_d.lib 的文件进行编译，cmd转码的时候发现32位数不对解决了问题2
 ![image](https://github.com/zhangity/C-Builder-to-Word---checkProandCity/assets/9999872/387a2188-6f2f-426d-b16f-94b42181bdd5)
+![image](https://github.com/zhangity/C-Builder-to-Word---checkProandCity/assets/9999872/eaaa6728-412d-454b-be84-32f9c967d5f8)
 
 2.但是Py_IsInitialized还是一直失败找不到原因，一直没考虑到32位和64位的问题，刚好电脑里有另一个版本的Python，重新设置了Python_Home竟然初始化成功了，这时候才知道CB是32位的Python是64位的二者不兼容所以无法调用，装了32位Python以后就可以连接了
 
